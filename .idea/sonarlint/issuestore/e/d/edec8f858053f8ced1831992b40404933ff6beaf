@@ -1,0 +1,14 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(¸¼Æ±
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÓÄÉ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ğ°Ìùúÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ˆ¶˜Ç
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.( À­ùÿÿÿÿ
+`
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(‘½Îüÿÿÿÿ
+m
+java:S2095"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(áôøÿÿÿÿ

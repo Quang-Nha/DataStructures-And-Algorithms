@@ -1,0 +1,30 @@
+C�ng th?c t�nh th? t�ch c?a m?t h?nh c?u l�: �4/3�? r3
+ T?i sao code   return 4 / 3 * Math.PI * Math.pow(bk, 3); l?i sai vd bk=2 ra k?t qu? 25 (sai)
+ C?n code        return 4 * Math.PI * Math.pow(bk, 3) / 3; l?i ��ng bk=2 ra k?t qu? 33.5 (��ng)
+
+- B�i 5: ph��ng th?c ph?n t?ng k?t b�i h?c ph?n c�c tham s? bi?n v� 
+- ph��ng th?c finalize() trong link:
+https://www.tutorialspoint.com/java/java_methods.htm
+b�i BJP4 Self-Check 12.5: mystery3 v� mystery1
+
+*t?i sao abstract class l?i c� h�m kh?i t?o
+
+*l?i bi�n d?ch v� l?i runtime l� g?
+*t�nh ��ng g�i �? b?o v? d? li?u, v?y h�m kh?i t?o v?n set ��?c d? li?u th? b?o v? nh� th? n�o
+
+*b?t ngo?i l? khi y�u c?u nh?p int nh�ng ng�?i d�ng nh?p v�o String nh� th? n�o
+*method s? d?ng tham s? l� m?ng th? c�c thay �?i �?n m?ng trong method c?ng ?nh h�?ng �?n m?ng b�n ngo�i, ph�p g�n 2 �?i t�?ng cho nhau c?ng v?y thay �?i 1 �?i t�?ng th? �?i t�?ng kia c?ng thay �?i theo v� ng�?c l?i
+
+*khi nh?p sai �?nh d?ng s? l�m th? n�o ch��ng tr?nh kh�ng d?ng l?i m� y�u c?u nh?p l?i r?i ch?y ti?p
+
+*bi?n ?n l� g?
+
+*m�n csd:
+M?i 1 l?n ch?y l?i h�m ghi d? li?u v�o file n� l?i x�a d? li?u c? c?a file v� ghi �� l�n? M� trong v?ng for th? n� kh�ng ghi �� m� ch?y li�n t?c
+
+
+
+
+
+
+

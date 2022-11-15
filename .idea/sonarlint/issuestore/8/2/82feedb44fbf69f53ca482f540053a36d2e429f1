@@ -1,0 +1,9 @@
+
+E
+java:S1197	"*Move the array designators [] to the type.(²Á€œüÿÿÿÿ
+Z
+java:S2147"DCombine this catch with the one at line 22, which has the same body.(ï­£Ä
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+i
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ãÏ¹Šùÿÿÿÿ
